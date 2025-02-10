@@ -1,0 +1,12 @@
+
+---
+
+### **📌 Java OOP Project (`Java-OOP-Project/`)**
+#### **`Main.java`**
+```java
+public class Main {
+    public static void main(String[] args) {
+        MyClass obj = new MyClass("Hello, Java OOP!");
+        obj.displayMessage();
+    }
+}
